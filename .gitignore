@@ -1,0 +1,15 @@
+# Public distribution is an explicit allow-list. All other local files stay private.
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/STRUCTURE.md
+!/export.bat
+!/pipeline/
+/pipeline/*
+!/pipeline/data_extraction/
+/pipeline/data_extraction/*
+!/pipeline/data_extraction/export.py
+!/pipeline/data_extraction/java/
+/pipeline/data_extraction/java/*
+!/pipeline/data_extraction/java/SafeIzExtract.java
